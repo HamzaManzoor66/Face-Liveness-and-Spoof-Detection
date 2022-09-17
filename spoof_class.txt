@@ -1,0 +1,11 @@
+{0: '3D Mask',
+ 1: 'A4',
+ 2: 'Face Mask',
+ 3: 'Live',
+ 4: 'Pad',
+ 5: 'PC',
+ 6: 'Phone',
+ 7: 'Photo',
+ 8: 'Poster',
+ 9: 'Region Mask',
+ 10: 'Upper Body Mask'}
