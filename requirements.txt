@@ -1,6 +1,6 @@
 Flask==1.0.3
 -f https://download.pytorch.org/whl/torch_stable.html
 torchvision==0.13.1+cpu
-numpy==1.16.4
+numpy==1.23.3
 Pillow==9.0.0
 gunicorn==19.9.0
